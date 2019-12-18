@@ -45,12 +45,16 @@ h4 {
   margin: auto;
 }
 
-#logo-uber {
+#logo-voodoo {
   position: relative;
   bottom: 17px;
   left: 50px;
   float: right;
   border-radius: 50%;
+  background-color:
+  grey;
+  box-shadow: 0 4px 16px
+  rgba(0,0,0,0.1);
 }
 
 
@@ -62,7 +66,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
-  border-left: 4px solid #71bf44;
+  border-left: 4px solid #4182e4;
 }
 
 .card-white > h4 {
@@ -75,7 +79,7 @@ h4 {
 
 
 .btn-rose {
-  background-color: #71bf44;
+  background-color: #4182e4;
   color: white;
   padding: 16px;
   line-height: 50px;
@@ -232,7 +236,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   list-style: none;
-  border-left: 4px solid #71bf44;
+  border-left: 4px solid #4182e4;
 }
 
 .educational > h4 {
